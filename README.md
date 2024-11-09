@@ -1,6 +1,6 @@
 # swiggy_casestudy
 
-Questions for the case study
+Case study Questions
 ---------------------------
 
 -- HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5?
